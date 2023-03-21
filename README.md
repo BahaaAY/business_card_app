@@ -4,7 +4,13 @@ A new Flutter project.
 
 Application on " Flutter & Dart Complete Development Course by Tharwat Samy " 
 
-![Screenshot](Screenshot_20230321_105753.png)
+
+
+<p align="center">
+<img src="Screenshot_20230321_105753.png" width="300">
+</p>
+
+
 
 ## Getting Started
 
